@@ -5,4 +5,4 @@
 Создать в текущей директории текстовый файл с содержимым переменной окружения $PATH и с помощью скрипта ограничить права на чтение только для владельца, запись и запуск запретить всем.
 
 Результат работы представлен ниже
-![Image](https://github.com/MYP4/web-security-basics/blob/main/work-result.jpg)
+![Image](https://github.com/MYP4/web-security-basics/blob/main/lab-1/work-result.jpg)
